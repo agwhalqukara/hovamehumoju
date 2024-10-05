@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hovamehumoju.pages.dev/sitemap.xml
